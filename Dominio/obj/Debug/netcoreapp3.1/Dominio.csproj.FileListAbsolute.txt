@@ -1,0 +1,9 @@
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

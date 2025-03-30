@@ -1,0 +1,17 @@
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.deps.json
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.dll
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.pdb
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.dll
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.dll
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.pdb
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.AssemblyReference.cache
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfoInputs.cache
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfo.cs
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CoreCompileInputs.cache
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.Up2Date
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.dll
+D:\2025\ASP.NET Core Web API Bootcamp_Construye REST APIs_SQL\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.pdb
